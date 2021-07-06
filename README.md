@@ -21,7 +21,6 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] Improved UI/UX with a color theme of https://www.color-hex.com/color-palette/111193
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -34,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Problem with making the emulator reopen after closing it.
 
 ## License
 
